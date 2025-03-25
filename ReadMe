@@ -1,0 +1,55 @@
+# Diwali Sales Analysis 📊
+
+## Overview
+This project analyzes sales data from the Diwali shopping season to extract valuable insights using **Python, Pandas, Seaborn, and Matplotlib**. The dataset includes details on customer demographics, purchase amounts, and product categories, helping to identify trends in consumer behavior.
+
+## Dataset
+The dataset used for this analysis contains information such as:
+- **Marital Status**
+- **Age Group**
+- **Gender**
+- **State**
+- **Occupation**
+- **Product Category**
+- **Amount Spent**
+
+## Features & Analysis
+The analysis includes:
+- **Data Cleaning:** Handling missing values and ensuring data consistency.
+- **Exploratory Data Analysis (EDA):** Generating visualizations for insights.
+  - Distribution of **Marital Status**
+  - **Age group-wise** purchase trends
+  - **Total sales by state and occupation**
+  - **Product category-wise sales**
+  - **Correlation heatmap** to analyze relationships between variables
+- **Visualizations:** Using Seaborn and Matplotlib to generate insightful plots.
+
+## Technologies Used
+- **Python** 🐍
+- **Pandas** (for data manipulation)
+- **Seaborn & Matplotlib** (for visualization)
+- **Jupyter Notebook** (for interactive data analysis)
+
+## Installation & Usage
+1. Clone the repository: 
+                        
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd diwali-sales-analysis
+   ```
+3. Install dependencies:
+   ```sh
+   pip install pandas seaborn matplotlib jupyter
+   ```
+4. Open Jupyter Notebook and run the analysis:
+   ```sh
+   jupyter notebook
+   ```
+   Open `Diwali_Sales_Analysis.ipynb` and execute the cells.
+
+## Contributing
+Feel free to **fork** the repository, create feature branches, and submit pull requests! 
+
+
+
